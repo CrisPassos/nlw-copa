@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/Users/cristianapassos/Desktop/courses/Rockseat/NLW_Copa/nlw-copa/mobile/node_modules
 
 # testing
 /coverage
